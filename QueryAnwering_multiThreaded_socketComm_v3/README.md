@@ -21,7 +21,7 @@ threads, where each thread plays the role of a client sending queries to whoServ
 The master program will be used as follows:\
 ```./master –w numWorkers -b bufferSize –s serverIP –p serverPort -i input_dir``` \
 where:
--  ```numWorkers```  is the Worker number of processes that the application will generate.
+-  ```numWorkers```: is the Worker number of processes that the application will generate.
 -  ```bufferSize``` : is the size of the buffer for reading over pipes.
 -  ```serverIP``` : is the IP address of the whoServer to which the Worker processes will connect to
 send him summary statistics.
