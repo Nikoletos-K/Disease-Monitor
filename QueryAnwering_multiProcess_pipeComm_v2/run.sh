@@ -1,0 +1,4 @@
+./rmpipes.sh
+clear
+make
+

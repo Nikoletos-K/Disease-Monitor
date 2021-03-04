@@ -1,0 +1,9 @@
+command=$(ls | grep -E name)
+
+for a in ${command[@]}; do
+
+	rm $a
+done  
+
+
+
