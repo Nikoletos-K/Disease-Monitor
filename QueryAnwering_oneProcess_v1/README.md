@@ -5,6 +5,9 @@ tables, linked lists, binary trees) that allow the entry and queries in a large 
 patientRecord type. Although the exercise data will come from files, eventually all
 Records will only be stored in main memory. 
 
+### System architecture
+![](/images/sp1.png?raw=true "System architecture")
+
 ## Compile and execution 
 - make : Type ```make``` for a simple user interface (validator accepted)
 - make with_ui  : Type ```make with_ui``` for the original project interface
