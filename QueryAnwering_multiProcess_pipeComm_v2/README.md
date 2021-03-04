@@ -10,7 +10,8 @@ Specifically, I implemented the diseaseAggregator application which creates a se
 processes that, along with the application, answers user queries.
 
 ### System architecture
-![](/images/sp2.png?raw=true "FS memory visualization")
+
+![](/images/sp2.png?raw=true "System architecture")
 
 ## Compile and execution 
 Type ```make``` for a simple user interface (validator accepted)
