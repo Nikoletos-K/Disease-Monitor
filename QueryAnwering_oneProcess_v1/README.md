@@ -6,7 +6,8 @@ patientRecord type. Although the exercise data will come from files, eventually 
 Records will only be stored in main memory. 
 
 ### System architecture
-![](/images/sp1.png?raw=true "System architecture")
+
+![](./images/sp1.png?raw=true "System architecture")
 
 ## Compile and execution 
 - make : Type ```make``` for a simple user interface (validator accepted)
