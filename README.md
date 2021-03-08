@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+---
 
 # Disease-Monitor
 A system that accepts, processes, records and answers questions about cases of viruses.
@@ -23,3 +24,7 @@ Thread programming and network communication. As part of this work I implemented
 1. a master program that will create a series of Worker processes (as did the parent process in the second task),
 2. a multi-threaded whoServer that will collect over the network summary statistics from Worker processes and queries from clients, and
 3. a multithreaded client whoClient program that will create a lot threads, where each thread plays the role of a client sending queries to whoServer.
+
+---
+
+© Konstantinos Nikoletos
