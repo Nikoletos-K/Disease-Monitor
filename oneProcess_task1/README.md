@@ -1,4 +1,4 @@
-# Disease monitor system 1st version
+# Disease monitor system | 1st version
 
 In this work I implemented a program that accepts, processes, records and answers questions about cases of viruses. Specifically I implemented a set of structures (hash
 tables, linked lists, binary trees) that allow the entry and queries in a large volume of records
