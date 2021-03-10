@@ -204,7 +204,7 @@ error and / or not completed. Before it terminates, it will free up all the free
 Bash script that creates test subdirectories and input files that you will use for
 to debug your program. Of course during the development of your program
 you can use small files to debug. The script create_infiles.sh works
-as follows:
+as follows: \
 ```./create_infiles.sh diseasesFile countriesFile input_dir numFilesPerDirectory numRecordsPerFile```
 - diseaseFile: a file with virus names (one per line)
 - countriesFile: a file with country names (one per line)
