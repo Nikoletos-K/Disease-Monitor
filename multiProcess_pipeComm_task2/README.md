@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-# Disease monitor system 2nd version
+# Disease monitor system |  2nd version
 Project goal is to get familiar with creating processes using system calls fork/exec, process communication through pipes, use of low-level I / O and creation bash scripts.
 As part of this work I implemented a distributed information processing tool that
 will receive, process, record and answer questions about viruses.
