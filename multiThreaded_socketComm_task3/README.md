@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-# Disease monitor system 3rd version
+# Disease monitor system | 3rd version
 The aim of this work is to familiarize me with thread programming and network communication. 
 As part of this work I implemented a distributed process system that will provide the same
 functionality with the diseaseAggregator application of the second task. Specifically, I implemented three
